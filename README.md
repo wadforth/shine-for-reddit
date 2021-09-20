@@ -5,6 +5,6 @@ The recent change to the chrome store has classed the extension Shine for Reddit
 - Download the repo
 - Drag and drop folder into extension page
 
-Edge 95.0.1011.1 - Working
-Chrome - ?
-Firefox - Still available on store
+#Edge 95.0.1011.1 - Working
+#Chrome - ?
+#Firefox - Still available on store
