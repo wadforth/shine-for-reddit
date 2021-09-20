@@ -8,3 +8,5 @@ The recent change to the chrome store has classed the extension Shine for Reddit
 ### Edge 95.0.1011.1 - Working
 ### Chrome - ?
 ### Firefox - Still available on store
+
+If you encounter reddit not loading or 'white screen' bug, delete your cache and restart browser - should fix.
